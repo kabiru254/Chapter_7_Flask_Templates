@@ -4,3 +4,4 @@
 - create and activate a virtual environment
 - install your applications
 - start the flask server
+- used flask-wtf to design a web form
